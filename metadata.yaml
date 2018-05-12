@@ -29,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7168
     wikipedia: http://en.wikipedia.org/wiki/Gottfried_Leibniz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17641#La-monadologie--1909-avec--tude-et-notes-de-Clodius-Piat
 gutenberg_bookshelf: FR Philosophie, Religion et Morale
 gutenberg_issued: '2006-01-30'
 gutenberg_type: Text
