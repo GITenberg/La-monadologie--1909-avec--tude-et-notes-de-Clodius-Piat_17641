@@ -1,0 +1,48 @@
+_repo: La-monadologie--1909-avec--tude-et-notes-de-Clodius-Piat_17641
+_version: 0.1.0
+contributor:
+  annotator:
+    agent_name: Piat, Clodius
+    alias: Piat, C. (Clodius)
+    birthdate: 1854
+    deathdate: 1918
+    gutenberg_agent_id: '7513'
+    url: http://www.gutenberg.org/2009/agents/7513
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leibniz, Gottfried Wilhelm, Freiherr von
+    aliases:
+    - Ulicovius Lithuanus, Georgius
+    - Leibnitius, Godefridus Guilielmus
+    - Lithuanus, Georgius Ulicovius
+    - Leibnizius, Godefridus Guilielmus
+    - Leibnitz, Godefroy-Guillaume
+    - Leibniz, G. W.
+    - Leibnizius, Gotfridus Guilelmus
+    - Leibniz, Georg Wilhelm
+    birthdate: 1646
+    deathdate: 1716
+    gutenberg_agent_id: '7168'
+    url: http://www.gutenberg.org/2009/agents/7168
+    wikipedia: http://en.wikipedia.org/wiki/Gottfried_Leibniz
+description: ''
+gutenberg_bookshelf: FR Philosophie, Religion et Morale
+gutenberg_issued: '2006-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17641'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Philosophy'
+- !lcsh 'Monadology'
+title: 'La monadologie (1909)
+
+  avec étude et notes de Clodius Piat'
+url: http://www.gutenberg.org/ebooks/17641
